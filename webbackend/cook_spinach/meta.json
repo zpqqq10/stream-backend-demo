@@ -1,0 +1,1 @@
+{"GOP": 30, "CRF": 20, "qp": 20, "image": [256, 256], "chunk": [8, 8], "position_border": 59, "offset_position_border": 7, "single_file": false, "overlap": 5, "begin_index": 0, "total_gaussians": 536128, "target_fps": 30, "duration": 300}
